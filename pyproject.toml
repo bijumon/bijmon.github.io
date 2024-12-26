@@ -1,0 +1,9 @@
+[project]
+name = "pgen"
+version = "0.1.0"
+description = "pgen is a python script to convert markdown files (with toml or yaml fontmatter) to html"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "jinja2"
+]
